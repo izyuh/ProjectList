@@ -1,9 +1,9 @@
 import React from "react";
 
-function about() {
+function About() {
     return <div className="about">
-
+        <p>Hello my name is Isaias and I am relatively new to the world of web development but that doesnt mean that I dont't have the skills to thrive in this field of work. I have created various projects utilizing both front-end and back-end software and frameworks. I have knowledge in fields such as HTML, CSS, JS, React, PHP, and many more. I started learning Java that I wanted to focus on back-end develpoment and tried front-end on a whim and enjoyed it. From there on out I decided to try and fron-end with a touch of back-end leading me to want to become a full stack dev. The main interesting focus of computer science , for me, is figuring out how to make things work as well as why they work. I like seeing a website and knowing how it reacts to us and how our information is processed when we click a button. I especially enjoy the feeling of learning a new piece of software and being able to implement it. It helps to keep the motivation going after hours of problem solving. I enjoy learning the intricacies of programs and understading how they work on a deeper level. Outside of webdev I enjoy problem solving, trivia, and puzzles. I like testing my knowledge to see what I know and finding the best solution to whatever problem comes my way. I took a front-end class in college as a filler and ended up discovering something I could see my self doing indefinetly. If you are interested in contacting me or have any further questions feel free to contact through one of the provided links.</p>
     </div>
 }
 
-export default about;
+export default About;

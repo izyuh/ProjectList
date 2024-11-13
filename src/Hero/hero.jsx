@@ -1,7 +1,7 @@
 import React from "react";
 import './hero.scss';
 
-function hero() {
+function Hero() {
   return (
     <div className="hero">
       <p>
@@ -15,4 +15,4 @@ function hero() {
   );
 }
 
-export default hero;
+export default Hero;
